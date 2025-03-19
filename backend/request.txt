@@ -1,0 +1,14 @@
+
+http://localhost:8080/api/auth/register
+{
+    "username": "admin",
+    "email": "admin@example.com",
+    "password": "password",
+    "role": "admin"
+}
+
+http://localhost:8080/api/auth/login
+{
+    "email": "admin@example.com",
+    "password": "password"
+}
