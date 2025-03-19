@@ -39,7 +39,7 @@ Before running the application, ensure that you have the following installed:
 
    ```bash
    docker --version
-   docker-compose --version
+   docker compose --version
    ```
 
 3. Ensure that all the necessary files are available in your project directory:
